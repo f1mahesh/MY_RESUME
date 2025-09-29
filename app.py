@@ -10,7 +10,7 @@ st.set_page_config(
 
 # --- SIDEBAR ---
 with st.sidebar:
-    st.image("profile_photo.jpg", width=130)  # Optional: add your headshot with this filename in the folder
+    st.image("profile-photo.png", width=130)  # Optional: add your headshot with this filename in the folder
     st.write("## Contact")
     st.write(
         "📍 Mississauga, ON\n"
